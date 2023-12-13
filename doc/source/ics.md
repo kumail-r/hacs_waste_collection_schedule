@@ -28,6 +28,7 @@ This source has been successfully tested with the following service providers:
 - [RM of Morris, MB](/doc/ics/recollect.md) / mwmenviro.ca
 - [Strathcona County, ON](/doc/ics/recollect.md) / strathcona.ca
 - [Waste Wise APPS](/doc/ics/recollect.md) / edmonton.ca
+- [Windsor, ON](/doc/ics/opendata_citywindsor_ca.md) / opendata.citywindsor.ca
 
 ### Germany
 

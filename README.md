@@ -360,6 +360,7 @@ Waste collection schedules in the following formats and countries are supported.
 - [Strathcona County, ON](/doc/ics/recollect.md) / strathcona.ca
 - [Toronto (ON)](/doc/source/toronto_ca.md) / toronto.ca
 - [Waste Wise APPS](/doc/ics/recollect.md) / edmonton.ca
+- [Windsor, ON](/doc/ics/opendata_citywindsor_ca.md) / opendata.citywindsor.ca
 </details>
 
 <details>
